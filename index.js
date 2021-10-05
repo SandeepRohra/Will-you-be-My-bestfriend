@@ -10,7 +10,7 @@ else if(answer === `No`){
   document.querySelector(`.h`).textContent = `Ok Kashish i respect your choice 😇`;
   document.querySelector(`.respond`).classList.add(`hidden`)
 }
-else if( answer !== `yes` && answer!== `no`){
+else if( answer !== `Yes` && answer!== `no`){
   alert(`Please answer in Yes or No`)
 }
 }
