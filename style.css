@@ -1,24 +1,32 @@
 h1{
 text-align: center;
-margin-top: 250px
+margin-top: 230px;
+height: auto;
 }
 
 
 .respond{
   text-align: center;
-  width: 10rem;
-  margin: auto;
+  /* width: 10rem; */
+
+  margin-bottom: 250px
   display: block;
-  height: 120px;
-  width: 250px;
+  height: 90px;
+  width: 240px;
   border-radius: 50%;
   border: 1px solid;
-  background-color: #20B2AA
+    background-color: #20B2AA
+
 }
 body{
   background-color: #D8BFD8
 }
 .hidden{
   visibility: hidden;
+
+}
+
+.btn{
+  text-align: center;
 
 }
